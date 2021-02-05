@@ -1,7 +1,6 @@
 # MVVM_NotesApp
 An android application which helps user to save notes in the app. It developed using MVVM, Room Persistence Library, Navigation Components.
-# DailyNews
-An Android appplication which display the latest daily news and also user can save the news for future read.
+
 
 
 <h3>Screenshots</h3>
